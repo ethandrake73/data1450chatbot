@@ -8,4 +8,4 @@ In specific, the proceeding that we looked at was the Massachusetts Department o
 
 This chatbot uses a retrieval augmented generation (RAG) system alongside OpenAI's GPT 3.5 model to accurately query and summarize the proceedings and its conclusions. The chatbot also includes a web search tool to allow users to ask more recent questions about what has happened with the ruling since the proceedings concluded.
 
-We believe that a chatbot that can interact with and query the large docket will be useful under-resourced policy advocates, commission staff, and political science research. The chatbot and RAG system is a test case for using a similar system for future state level energy proceedings.
+We believe that a chatbot that can interact with and query the large docket will be useful under-resourced policy advocates, commission staff, and political science research. The chatbot and RAG system is a test case for designing similar systems for future state level energy proceedings.
