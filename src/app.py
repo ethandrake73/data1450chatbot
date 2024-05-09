@@ -1,3 +1,5 @@
+# this is the code for the chatbot interface! (still in beta)
+
 import streamlit as st
 import os
 from langchain.schema import StrOutputParser
